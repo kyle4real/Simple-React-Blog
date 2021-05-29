@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "id": 2,
+      "title": "Super cool css tricks",
+      "author": "kyle",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium dolorum impedit totam cumque fugiat voluptate perspiciatis, delectus commodi ipsum earum maxime voluptatem porro autem quasi id quisquam a nisi unde!"
+    },
+    {
+      "title": "Cool new blog",
+      "body": "check out this blog",
+      "author": "kyle",
+      "id": 4
+    },
+    {
+      "title": "this is a new blog",
+      "body": "this is a new blog body",
+      "author": "billy",
+      "id": 5
+    }
+  ]
+}
